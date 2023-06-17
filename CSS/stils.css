@@ -102,13 +102,13 @@ h3 {
     font-size: 15px;
     border-bottom: 1px solid transparent;
     background-color: rgb(57, 6, 73);
-    padding-top: 13px;
+    padding-top: 15px;
    
 }
 
 .dropdown-item:not(:last-child) {
     border-color: dodgerblue;
-    padding-top: -5px;
+    padding-top: -10px;
 }
 
 .social {
