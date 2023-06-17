@@ -29,7 +29,7 @@ header {
 nav { 
     width: 100%;
     display: flex;
-    font-size: 25px;
+    font-size: 30px;
     margin: -20px;  
 }
 
@@ -37,12 +37,12 @@ h3 {
    text-align: center;
 }
 .nav-left {
-    padding-left: 120px;
+    padding-left: 110px;
     
 }
 
 .nav-right {
-    padding-left: 120px;
+    padding-left: 100px;
     padding-top: 18px;
 }
 
@@ -86,13 +86,13 @@ h3 {
 
 .dropdown {
     position: absolute;
-    bottom: -90px;
+    bottom: -100px;
     display: none;
     flex-direction: column;
     gap: 20px;
     width: 100%;
     text-align: center;
-    height: 130px;
+    height: 120%;
     background-color: rgb(57, 6, 73);
     
 }
