@@ -11,7 +11,7 @@ body {
 header {
     width: 90%;
     height: 70px;
-    background-image: url('./images/bck.jpg');
+    background-image: url('https://raw.githubusercontent.com/lauris7701/first_test_website/main/images/bck.jpg');
     background-position: center;
     background-size: cover;
     margin: 0 auto;
