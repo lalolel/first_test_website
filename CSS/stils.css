@@ -85,7 +85,7 @@ h3 {
 
 .dropdown {
     position: absolute;
-    bottom: auto;
+    bottom: 100px;
     display: none;
     flex-direction: column;
     gap: 20px;
