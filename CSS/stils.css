@@ -55,7 +55,7 @@ h3 {
 }
 
 .menu {
-    width: 70%;
+    width: 50%;
     display: flex;
     justify-content: center;
     gap: 20px;
