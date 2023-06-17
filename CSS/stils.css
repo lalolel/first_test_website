@@ -29,7 +29,7 @@ header {
 nav { 
     width: 130%;
     display: flex;
-    font-size: 28px;
+    font-size: 25px;
     margin: -30px;  
 }
 
@@ -55,7 +55,7 @@ h3 {
 }
 
 .menu {
-    width: 50%;
+    width: 80%;
     display: flex;
     justify-content: center;
     gap: 20px;
