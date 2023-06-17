@@ -219,11 +219,11 @@ ul.a {
   
 ul.purple-bullet {
     margin-left: 10px;
-    list-style-image: url('sqpurple bullet.gif');
+    list-style-image: url('s../images/qpurple bullet.gif');
 }
 ul.blue-bullet {
     margin-left: 10px;
-    list-style-image: url('sqblue.gif');
+    list-style-image: url('../images/sqblue.gif');
 }
 /* 
 overflow-y: scroll; skrullitis 
