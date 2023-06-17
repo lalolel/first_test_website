@@ -27,7 +27,7 @@ header {
 }
 
 nav { 
-    width: 200%;
+    width: 130%;
     display: flex;
     font-size: 28px;
     margin: -30px;  
@@ -37,12 +37,12 @@ h3 {
    text-align: center;
 }
 .nav-left {
-    padding-left: 110px;
+    padding-left: 100px;
     
 }
 
 .nav-right {
-    padding-left: 100px;
+    padding-right: 400px;
     padding-top: 18px;
 }
 
