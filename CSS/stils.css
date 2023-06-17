@@ -84,16 +84,17 @@ h3 {
 }
 
 .dropdown {
-    position: absolute;
-    bottom: -200px;
+     position: absolute;
+    bottom: -101px;
     display: none;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     width: 100%;
     text-align: center;
+    height: 101px;
     background-color: rgb(57, 6, 73);
-    height: 98px;
-
+    
+}
 }
 
 .dropdown-item {
