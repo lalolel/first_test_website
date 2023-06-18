@@ -252,21 +252,22 @@ different parts and versions of a project</li>
   <span> Mana vērtība ir zināšanas. </span>
   <br>
 <section class="container1">section3</section>  
-<!-- table code. add rows using the table row element: <tr> add data using the table data element: <td> -->
-<!-- To add titles use the table heading element: <th>.  -->
 
-<table>
-    <thead>
-      <tr>
-        <th>Company Name</th>
+
+<!--   -->
+
+<table>                                                   <!-- table code.  -->                                      
+    <thead>                                               <!--table’s column headings can be sectioned off using the table head element: <thead>, add style to this tag with css-->
+      <tr>                                                <!-- add rows using the table row element: <tr>  -->
+        <th>Company Name</th>                             <!-- To add titles use the table heading element: <th>.  -->
         <th>Number of Items to Ship</th>
         <th>Next Action</th>
       </tr>
     </thead>
-    <tbody>
+   <tbody>                                          <!-- Long tables can be sectioned off using the table body element: <tbody>, add style to this tag with css  -->
       <tr>
         <th>Adam's Greenworks</th>
-        <td>14</td>
+        <td>14</td>                                       <!-- add data using the table data element: <td>    -->
         <td>Package Items</td>
       </tr>
       <tr>
@@ -295,6 +296,10 @@ different parts and versions of a project</li>
         <td>Enter Order</td>
       </tr>
       </tbody>
+   <tfoot>                        <!-- The bottom part of a long table can also be sectioned off using the <tfoot> element.   -->
+      <td>Total</td>
+			<td>28</td>
+    </tfoot>
   </table>   
 
 </body>
