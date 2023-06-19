@@ -255,9 +255,8 @@ table, th, td {
     .content ul {
             flex-direction: row;
             width: 200px;;
+ }
 
-    }
-}
 .picture-logo1 {
     height: 300px;
     width: 300px ;
@@ -268,9 +267,11 @@ table, th, td {
     width: 500px ;
 }
 .picture-center {
-     height: 300px;
-    width: 300px 
-        
+     display: block;
+    height: 280pxx;
+    width: 350px;
+    margin: auto;
+}        
 ul.a {
     list-style-type: none;
 }
