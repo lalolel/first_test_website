@@ -267,7 +267,10 @@ table, th, td {
     height: 300px;
     width: 500px ;
 }
-
+.picture-center {
+     height: 300px;
+    width: 300px 
+        
 ul.a {
     list-style-type: none;
 }
