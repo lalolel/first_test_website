@@ -41,12 +41,12 @@ table, th, td {
   font-family: Arial, sans-serif;
   text-align: center;
 }
-ul {
+ul.second-stye {
   padding: 0;
   margin: 0;
 }
 
-li {
+li.second-stye {
   color: #FFF;
   display: inline-block;
   font-family: 'Oxygen', sans-serif;
