@@ -228,8 +228,7 @@ table, th, td {
     display: block;
     height: 600px;
     width: 100px;
-    margin: auto;
-     padding-bottom: 3px; 
+    margin: 5px;
     
 }
 .hidden {
